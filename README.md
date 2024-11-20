@@ -1,5 +1,7 @@
 # CONTEXTE
 
+**connaissance du python requis**
+
 Il S'agit de fournir une implémebtation des algorithmes de decodage par ensemble d'information
 (Information Set Decoding).
 
